@@ -7,7 +7,7 @@ Track: https://hyperskill.org/tracks/17
 | Project | Level |
 | ------ | ------ |
 | Battleship | 🔷 Medium |
-| Simple Banking System | ♦️ hard |
-| Contacts | ♦️ hard |
-| Readability Score | ♦️ hard |
+| Simple Banking System | ♦️ Hard |
+| Contacts | ♦️ Hard |
+| Readability Score | ♦️ Hard |
 | Text Editor | ♦️ Hard |
