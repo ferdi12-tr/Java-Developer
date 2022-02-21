@@ -1,7 +1,7 @@
 # Jet Brains Academy Java-Developer
 Learn programming while building complete applications
 
-Profile: https://hyperskill.org/profile/173478948
+Profile: https://hyperskill.org/profile/173478948 \n
 Track: https://hyperskill.org/tracks/17
 
 | Project | Level |
