@@ -1,4 +1,4 @@
-# Jet Brains Academy Java-Developer
+# JetBrains Academy Java Developer
 Learn programming while building complete applications
 
 Profile: https://hyperskill.org/profile/173478948 <br />
